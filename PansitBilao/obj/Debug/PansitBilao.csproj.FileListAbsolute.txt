@@ -1,0 +1,16 @@
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\bin\Debug\PansitBilao.exe.config
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\bin\Debug\PansitBilao.exe
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\bin\Debug\PansitBilao.pdb
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.csproj.AssemblyReference.cache
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.Form1.resources
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.Properties.Resources.resources
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.csproj.GenerateResource.cache
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.csproj.CoreCompileInputs.cache
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.exe
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.pdb
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.DineIn.resources
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.MainForm.resources
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.AddForm.resources
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.COForm.resources
+C:\Users\Ace\source\repos\PansitBilao\PansitBilao\obj\Debug\PansitBilao.AdminForm.resources
